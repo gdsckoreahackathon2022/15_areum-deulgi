@@ -1,8 +1,8 @@
 import React from 'react';
 import { useNavigate } from "react-router-dom";
-import logo from "./style/아름들기2.png";
+import logo from "../picture/logo/아름들기2.png";
 import "./style/signup.css"
-const Signup =() => {
+const Signup =({}) => {
     let navigate = useNavigate();
     const onHome=()=>{
         navigate("/")
@@ -12,15 +12,8 @@ const Signup =() => {
     }
     return(
         <div>
-            <nav>
-                <ul className="nav-container">
-                <div className="navi">
-                    <img src={logo} height="50" onClick={onHome}/>
-                </div>
-                </ul>
-            </nav>
             <div className="logo">
-                <img src={logo} height="80"/>
+                <img src={logo} height="160"/>
             </div>
             <div className="signup">
                 <div className="title">계정 이름</div>
