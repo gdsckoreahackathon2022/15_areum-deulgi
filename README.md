@@ -35,7 +35,7 @@
 
 
  > **1) MAIN**
-    
+    <img src="/presentation/main.gif" height="100px" align="center"/>
 
  > **2) CLASS LIST**
 
