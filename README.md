@@ -35,7 +35,7 @@
 
 
   > **1) MAIN**
-   </br> <img src="/presentation/main.gif" height="450px" align="center"/>
+   </br> <img src="/presentation/main.gif" height="450px" align="center"/></br>
    main page에 방문하시면 따스한 로고와 문구가 어르신 분들을 맞이합니다.
    편안함을 주는 파스텔톤의 포스트잇 위에 놓여진 네 가지 주제를 자유롭게 살펴볼 수 있습니다.
    '요리'는 가족들과 함께할 수 있는 레시피를 소개해드리며, 특히 손자와 함께할 수 있는 최신 유행 음식 관련 영상도 제공합니다.
