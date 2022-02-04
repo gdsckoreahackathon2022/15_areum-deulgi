@@ -2,7 +2,6 @@ import React,{useState,useEffect} from "react";
 import { useNavigate,useParams } from "react-router-dom";
 import logo from "../picture/logo/아름들기2.png"
 
-
 const Detail = (props) =>{
     let navigate = useNavigate();
     const onHome=()=>{
