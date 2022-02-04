@@ -11,7 +11,8 @@
 
 ### 2. 사전 조사
   >프로토타입 제작을 시작하기 전, 노년층의 인터넷 활용 비율에 대해 조사했습니다.  
-  2007년 연구 결과에 의하면, 60세 이상 인구 중에서 17.6%가 인터넷을 활용하고 있고, 현재는 이보다 더 사용 비율이 높을 것으로 보입니다. 따라서 노년층 대상 교육 제공 플랫폼이 적합한 주제라고 판단했습니다.  
+  2007년 연구 결과에 의하면, 60세 이상 인구 중에서 17.6%가 인터넷을 활용하고 있고, 현재는 이보다 더 사용 비율이 높을 것으로 보입니다.
+  따라서 노년층 대상 교육 제공 플랫폼이 적합한 주제라고 판단했습니다.  
   또, 노년층 인구의 화면 인식도를 고려해 일반 웹사이트보다 폰트 사이즈를 키우고, 내용을 간략화하는 것을 목표로 했습니다.
   ###### *Heo, Jun-Seon, Lee, Hong-Jik, & Jeong, Chan-Hee. (2013). A Study on Types of Portal Sites Preferences among the Korea Elderly. The Journal of the Korea Institute of Electronic Communication Sciences, 8(5), 713–724.*
   
