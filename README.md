@@ -70,5 +70,9 @@
 
  
 
+### 6. 사용 기술
+
+> BE: Django, aws
+> FE: React
 
 
