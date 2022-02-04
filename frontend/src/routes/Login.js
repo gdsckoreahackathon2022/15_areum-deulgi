@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from "react-router-dom";
 import "./style/Login.css"
-import logo from "./style/아름들기2.png";
+import logo from "../picture/logo/아름들기2.png";
 const Login=({isLogin,setIsLogin})=>{
     let navigate = useNavigate();
     const onHome=()=>{
@@ -13,15 +13,8 @@ const Login=({isLogin,setIsLogin})=>{
     }
     return (
     <div>
-        <nav>
-            <ul className="nav-container">
-                <div className="navi">
-                    <img src={logo} onClick={onHome} height="50"/>
-                </div>
-            </ul>
-        </nav>
         <div className="login_logo">
-            <img src={logo} height="200"/>
+            <img src={logo} onClick={onHome}height="200"/>
         </div>
 
         <div className="login">
