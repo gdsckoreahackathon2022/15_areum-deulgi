@@ -34,14 +34,14 @@
   >- 최신 유행 트로트 같이 배워 봐요~  
 
 
- > ** 1) MAIN **
+ > **1) MAIN**
     
 
- > ** 2) CLASS LIST **
+ > **2) CLASS LIST**
 
- > ** 3) DETAIL **
+ > **3) DETAIL**
 
- > ** 4) SIGN UP / LOG IN **
+ > **4) SIGN UP / LOG IN**
  
 ### 4. 기대 효과
  
