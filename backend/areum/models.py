@@ -14,3 +14,7 @@ class Edu(models.Model):
     def __str__(self):
         """A string representation of the model."""
         return self.title
+
+
+class MyModel(models.Model): 
+    id = models.AutoField(primary_key=True)
