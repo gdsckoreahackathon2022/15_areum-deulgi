@@ -44,6 +44,7 @@
    '음악'은 추억의 노래를 다시 돌아보거나, 어르신들을 위한 음악 교실 컨텐츠를 제공합니다.
    
  > **2) CLASS LIST**
+ </br> <img src="/presentation/class list.gif" height="450px" align="center"/></br>
 
  > **3) DETAIL**
 
