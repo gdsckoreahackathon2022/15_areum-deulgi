@@ -47,7 +47,7 @@
  </br> <img src="/presentation/class list.gif" height="450px" align="center"/></br>
 
  > **3) DETAIL**
-
+ </br> <img src="/presentation/detail.gif" height="450px" align="center"/></br>
  > **4) SIGN UP / LOG IN**
  
 ### 4. 기대 효과
