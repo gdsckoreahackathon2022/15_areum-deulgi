@@ -3,11 +3,13 @@ import React, {useState} from 'react';
 
 function App() {
     const [isLogin,setIsLogin] =useState(false);
+    const [category,setCategory] = useState(0);
     return(
         <div>
             <AppRouter
                 isLogin={isLogin}
-                setIsLogin={setIsLogin}>
+                setIsLogin={setIsLogin}
+                >
             </AppRouter>
         </div>
     )
