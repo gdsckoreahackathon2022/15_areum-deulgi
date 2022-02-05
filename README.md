@@ -48,8 +48,11 @@
 
  > **3) DETAIL**
  </br> <img src="/presentation/detail.gif" height="450px" align="center"/></br>
- > **4) SIGN UP / LOG IN**
  
+ > **4) SIGN UP / LOG IN**
+  </br> <img src="/presentation/detail.gif" height="450px" align="center"/></br>
+  
+  
 ### 4. 기대 효과
  
  >취미 및 여가를 즐기는 시간이 상대적으로 풍부한 시니어들에게 즐겁게 시간을 보낼 수 있도록 돕습니다. 
