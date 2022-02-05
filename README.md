@@ -96,7 +96,8 @@ url: http://15.165.85.145:3000/
  
 ### 6. 사용 기술
 
-> - BE: Django, aws
+> - deploy: AWS
+> - BE: Django
 > - FE: React, html, css
 
 
